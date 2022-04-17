@@ -1,4 +1,4 @@
-### Hey 👋
+### 👋
 
 ```python
 class CS_Student:
