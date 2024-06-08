@@ -21,7 +21,7 @@ davi.greet();
  </tr>
  <tr>
   <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddeltree&layout=compact&theme=shadow_green&exclude_repo=cpt&hide_border=true" alt="top languages used"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddeltree&layout=compact&theme=shadow_green&exclude_repo=cpt&hide_border=true&text_color=999999&bg_color=00000000" alt="top languages used"/>
   </td>
  </tr>
 </table>
